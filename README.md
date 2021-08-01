@@ -6,7 +6,9 @@ The [dataset](https://data.lacity.org/Public-Safety/Crime-Data-from-2010-to-2019
 
 ### How to run
 Dependencies: ployly, dash, dash_bootstrap_components, numpy, pandas
-On terminal: python3 dashApp.py
+
+On terminal run: python3 dashApp.py
+
 Running http://127.0.0.1:8085/ on a browser.
 
 ### Interface 
